@@ -9,7 +9,7 @@
 <title><?php print $head_title; ?></title>
 <?php print $styles; ?>
 
-<?php endif; ?>
+
 
 <?php print $scripts; ?>
 </head>
