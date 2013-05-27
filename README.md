@@ -1,0 +1,1 @@
+Aiming to get an understanding of Drupal at a better level. Responsive theme to drupal manipulation. 
